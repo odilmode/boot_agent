@@ -49,18 +49,7 @@ How to dynamically route tasks using reasoning from the LLM
 
 Basics of prompt engineering, API handling, and modular Python design
 
-📁 Project Files (Typical Structure)
-bash
-Copy
-Edit
-boot_agent/
-├── agent.py          # Main agent loop
-├── tools/            # Skills/tools the agent can use
-│   ├── file_reader.py
-│   └── ...
-├── prompts/          # System prompts for agent behavior
-├── models/           # (Optional) Memory/context handling
-└── config.py         # API keys, constants, etc.
+
 🧠 Next Steps or Extensions
 Add voice input/output for a fully spoken agent
 
